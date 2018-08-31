@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Open FinTech",
+	"description": "This is a repository of open fintech APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/open-fintech.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://open-fintech.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Open FinTech",
+			"x-api-slug": "open-fintech",
+			"description": "International standards yield technological, economic and social advantages. Standards speed up the development of new applications and simplify the process of communication between the services. Data and service is available under the Open Database License (ODbL). It is an open standard and open data, every player of FinTech market can contribute to development and enhancement. All data is available through Rest API based on JSON API standard.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/open-fintech-io.png",
+			"humanURL": "http://openfintech.io",
+			"baseURL": "https://api.openfintech.io//v1/",
+			"tags": "Open FinTech",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/open-fintech/master/_listings/open-fintech/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Open FinTech",
+	"include": [
+		{
+			"name": "Open FinTech",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/open-fintech/master/_listings/open-fintech/apis.yaml"
+		}
+	]
+}

@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Open FinTech
 x-complete: 1
@@ -344,4 +343,3 @@ paths:
           description: OK
       tags:
       - Payment-providers
----
